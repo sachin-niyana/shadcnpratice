@@ -9,7 +9,7 @@ import { AccordionList } from "./common/Helper";
 const ShadcnAccordion = () => {
   return (
     <>
-      <div className="h-screen flex justify-center items-center">
+      <div className="">
         <Accordion
           type="single"
           collapsible
